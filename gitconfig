@@ -1,9 +1,9 @@
 [github]
-	user = Morxander
+	user = mina-alber
 
 [user]
-	name = Morad Edwar
-	email = me@morad-edwar.com
+	name = Mina Alber
+	email = me@minaalber.com
 
 [alias]
 	ck = checkout
@@ -12,10 +12,8 @@
 	plom = pull origin master
 	pod = push origin development
 	plod = pll origin development
-	poq = push origin qa
-	ploq = pull origin qa
 	logg = log --oneline --graph --color --decorate
-	lg = log --online
+	lg = log --oneline
 	stu = status -s
 
 [push]
